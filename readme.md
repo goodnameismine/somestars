@@ -10,8 +10,7 @@
 
 项目截图：
 个人信息登录（oauth2.0接口）
-
-图片: https://images-cdn.shimo.im/dx7sfRmy5R0WycSM/登录.gif
+![登录](https://images-cdn.shimo.im/dx7sfRmy5R0WycSM/登录.gif)
 
 约座流程
 
